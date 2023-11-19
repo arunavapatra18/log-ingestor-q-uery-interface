@@ -1,0 +1,5 @@
+\log-injestor
+
+__pycache__/
+
+.env
