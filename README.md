@@ -1,3 +1,7 @@
+Log Ingestor and Query Interface App using Python FastAPI, Click, Postgres and MongoDB. 
+
+Developed for a hiring challenge.
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
